@@ -16,7 +16,7 @@ photo2 = ImageTk.PhotoImage(image2)
 
 blabel=tk.Label(window,image=photo2,bg="white")
 blabel.place(relwidth=1,relheight=1)
-#photo=tk.PhotoImage(file=r"c:\\Users\\shrin\\OneDrive\\Documents")
+#photo=tk.PhotoImage(file=r"photo filepath")
 #window.create_image(0,0,image=photo,anchor=NW)
 #college logo
 image = Image.open("InstitutionLogopath")
